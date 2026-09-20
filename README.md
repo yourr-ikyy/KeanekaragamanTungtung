@@ -12,7 +12,7 @@ An interactive **Keanekaragaman Hayati Indonesia** learning experience built wit
 
 <br>
 
-[**🚀 Open Project**](./KEHATI_Bento_Learning_Lab.html)
+[**🚀 Open Project**]([./KEHATI_Bento_Learning_Lab.html](https://yourr-ikyy.github.io/KeanekaragamanTungtung/))
 
 </div>
 
